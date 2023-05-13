@@ -1,0 +1,17 @@
+INSERT INTO CONTATO(nome, email, endereco, nascimento) VALUES('Ana Silva', 'ana.silva@gmail.com', 'Rua A1', '1990-03-15');
+INSERT INTO CONTATO(nome, email, endereco, nascimento) VALUES('Bruno Costa', 'bruno.costa@gmail.com', 'Rua B2', '1987-11-25');
+INSERT INTO CONTATO(nome, email, endereco, nascimento) VALUES('Carla Santos', 'carla.santos@gmail.com', 'Rua C3', '1992-07-12');
+INSERT INTO CONTATO(nome, email, endereco, nascimento) VALUES('Diego Nunes', 'diego.nunes@gmail.com', 'Rua D4', '1989-08-30');
+INSERT INTO CONTATO(nome, email, endereco, nascimento) VALUES('Elisa Oliveira', 'elisa.oliveira@gmail.com', 'Rua E5', '1991-05-18');
+INSERT INTO CONTATO(nome, email, endereco, nascimento) VALUES('Fabio Souza', 'fabio.souza@gmail.com', 'Rua F6', '1993-02-24');
+INSERT INTO CONTATO(nome, email, endereco, nascimento) VALUES('Giovana Almeida', 'giovana.almeida@gmail.com', 'Rua G7', '1988-10-09');
+INSERT INTO CONTATO(nome, email, endereco, nascimento) VALUES('Henrique Dias', 'henrique.dias@gmail.com', 'Rua H8', '1994-01-20');
+INSERT INTO CONTATO(nome, email, endereco, nascimento) VALUES('Isabela Rocha', 'isabela.rocha@gmail.com', 'Rua I9', '1990-04-05');
+INSERT INTO CONTATO(nome, email, endereco, nascimento) VALUES('João Lima', 'joao.lima@gmail.com', 'Rua J10', '1986-09-22');
+INSERT INTO CONTATO(nome, email, endereco, nascimento) VALUES('Kátia Ribeiro', 'katia.ribeiro@gmail.com', 'Rua K11', '1992-06-11');
+INSERT INTO CONTATO(nome, email, endereco, nascimento) VALUES('Lucas Barbosa', 'lucas.barbosa@gmail.com', 'Rua L12', '1991-02-17');
+INSERT INTO CONTATO(nome, email, endereco, nascimento) VALUES('Mariana Andrade', 'mariana.andrade@gmail.com', 'Rua M13', '1989-12-07');
+INSERT INTO CONTATO(nome, email, endereco, nascimento) VALUES('Nelson Castro', 'nelson.castro@gmail.com', 'Rua N14', '1993-07-28');
+INSERT INTO CONTATO(nome, email, endereco, nascimento) VALUES('Otávio Pires', 'otavio.pires@gmail.com', 'Rua O15', '1990-05-15');
+INSERT INTO CONTATO(nome, email, endereco, nascimento) VALUES('Patrícia Gomes', 'patricia.gomes@gmail.com', 'Rua P16', '1987-11-30');
+INSERT INTO CONTATO(nome, email, endereco, nascimento) VALUES('Rafaela Mendes', 'rafaela.mendes@gmail.com', 'Rua R17', '1992-08-03');
